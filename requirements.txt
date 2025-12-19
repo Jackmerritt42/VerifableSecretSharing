@@ -1,3 +1,4 @@
 tinyec
 matplotlib
 pytest
+numpy
