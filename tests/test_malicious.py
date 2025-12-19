@@ -52,7 +52,7 @@ def test_catch_cheater():
         if is_valid:
             print(f"    Participant {pid}: Verified OK")
         else:
-            print(f"    Participant {pid}: 🚨 VERIFICATION FAILED! (Fraud Detected)")
+            print(f"    Participant {pid}: VERIFICATION FAILED! (Fraud Detected)")
             if pid == victim_id:
                 caught_cheater = True
 
