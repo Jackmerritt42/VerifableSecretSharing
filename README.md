@@ -29,8 +29,8 @@ This project implements **Feldman’s Verifiable Secret Sharing (VSS)** scheme u
 
     [x] Verification Logic: Share integrity checking.
 
-    [ ] Malicious Simulation: Script to simulate a dishonest dealer sending fake shares.
+    [x] Malicious Simulation: Script to simulate a dishonest dealer sending fake shares.
 
-    [ ] Visualization: Matplotlib graphs showing the "Point-to-Curve" verification process.
+    [x] Visualization: Matplotlib graphs showing the "Point-to-Curve" verification process.
 
-    [ ] Reconstruction: Logic to recover the secret from t verified shares.
+    [x] Reconstruction: Logic to recover the secret from t verified shares.
